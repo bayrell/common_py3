@@ -2,9 +2,9 @@
 
 
 
-__name__ = "BayrellCommon"
-__version__ = "0.0.1"
-__description__ = "Bayrell runtime library for python"
+__name__ = "bayrell-common"
+__version__ = "0.0.2"
+__description__ = "Bayrell Common Library"
 __license__ = "Apache License Version 2.0"
 __author__ = "Ildar Bikmamatov"
 __email__ = "ildar@bayrell.org"
